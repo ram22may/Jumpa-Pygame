@@ -175,7 +175,7 @@ ogre_direction = 1
 
 score = 0
 base_obspeed = 250
-speed_factor = 50
+speed_factor = 10
 
 cloudspeed = 200
 velocity_y = 0
